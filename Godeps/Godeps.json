@@ -1,0 +1,6 @@
+{
+	"ImportPath": "process_exporter",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": []
+}
